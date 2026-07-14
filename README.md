@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0014-longest-common-prefix) |
 | [0977-squares-of-a-sorted-array](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
