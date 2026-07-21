@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0014-longest-common-prefix) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
 | ------- |
@@ -58,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0204-count-primes) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
