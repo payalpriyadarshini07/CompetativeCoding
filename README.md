@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0014-longest-common-prefix) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0204-count-primes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0169-majority-element) |
 ## Divide and Conquer
