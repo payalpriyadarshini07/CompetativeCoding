@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0204-count-primes) |
 | [0977-squares-of-a-sorted-array](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/1260-shift-2d-grid) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -60,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0204-count-primes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/3499-maximize-active-section-with-trade-i) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
