@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0204-count-primes) |
+| [0643-maximum-average-subarray-i](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/1260-shift-2d-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
