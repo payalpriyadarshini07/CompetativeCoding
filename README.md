@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0014-longest-common-prefix) |
+| [0131-palindrome-partitioning](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0205-isomorphic-strings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0131-palindrome-partitioning) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0223-rectangle-area) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
