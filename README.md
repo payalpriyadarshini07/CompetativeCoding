@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0014-longest-common-prefix) |
 | [0131-palindrome-partitioning](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0205-isomorphic-strings) |
+| [0344-reverse-string](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0344-reverse-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
