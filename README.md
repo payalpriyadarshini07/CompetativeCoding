@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0223-rectangle-area) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Dynamic Programming
 |  |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0643-maximum-average-subarray-i) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
