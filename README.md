@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0088-merge-sorted-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0344-reverse-string) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0131-palindrome-partitioning) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/payalpriyadarshini07/CompetativeCoding/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
