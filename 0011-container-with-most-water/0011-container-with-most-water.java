@@ -1,21 +1,38 @@
 class Solution {
     public int maxArea(int[] height) {
-        int left = 0;
-          int right = height.length - 1;
-           int maxWater = 0;
+        /* Brute force Technique
+        int max_water = 0;
+        int n = height.length; 
+        
+        
+        for(int i = 0; i < n; i++){
+            for(int j = i + 1; j < n; j++){ 
+                int w = j - i;
+                int h = Math.min(height[i], height[j]);
+                int area = w * h;
+                max_water = Math.max(area, max_water); // 
+            }
+        }
+        return max_water;*/
 
- while (left < right) {
-            int width = right - left;
-            int h = Math.min(height[left], height[right]);
-            int area = width * h;
-            maxWater = Math.max(maxWater, area);
-            if (height[left] < height[right]) {
+        int max_water=0;
+        int left=0;
+        int right=height.length-1;
+
+        while(left<right){
+            int w=right-left;
+            int h= Math.min(height[left],height[right]);
+            int area= w*h;
+            max_water=Math.max(max_water,area);
+
+            if(height[left]<height[right]){
                 left++;
-            } else {
+            }
+            else{
                 right--;
             }
         }
+        return max_water;
 
-        return maxWater;
     }
 }
